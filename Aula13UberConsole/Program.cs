@@ -1,7 +1,4 @@
-﻿// Programa que simula aplicativo de mobilidade urbana exemplo uber
-//Por: Felipe Vidal
 using System;
-//para usar delay
 using System.Threading.Tasks;
 
 namespace uberConsole
@@ -26,7 +23,7 @@ namespace uberConsole
             Pagamento pagamento = new Pagamento();
 
             //introdução
-            Console.WriteLine("\n----------Huber de Console----------");
+            Console.WriteLine("\n----------uber de Console----------");
             Console.WriteLine("---------- Versão Generica ;) ---------------");
             //menu principal
             string resposta; //armazena a resposta analizada
